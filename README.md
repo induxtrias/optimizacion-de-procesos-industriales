@@ -70,7 +70,15 @@ Implementacion del uso de PLC con programacion de un PID para ajuste continuo de
         Implementación del modelo en sistemas de control en tiempo real.
         Ampliar el estudio con variables adicionales (composición de las aceitunas, coadyuvantes tecnológicos).
 
-6. Bibliografía
+   
+7. Codigo
+
+ 
+El archivo esta en el repositorio su nombre python.py
+
+  
+
+8. Bibliografía
 
     Espínola, F., et al. (2005). Aplicación de técnicas de optimización en almazaras.
     Montgomery, D. (2002). Diseño y análisis de experimentos.
