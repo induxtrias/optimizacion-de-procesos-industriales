@@ -1,8 +1,6 @@
-# Optimizacion-de-procesos-industriales
-Propuesta de Tesis
-
 Título:
 Optimización de Parámetros Operativos en Almazaras Mediante Modelado Matemático y Métodos Computacionales
+Implementacion del uso de PLC con programacion de un PID para ajuste continuo de parametros
 1. Introducción
 
     Contexto:
