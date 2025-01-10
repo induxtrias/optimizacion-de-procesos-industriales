@@ -74,7 +74,9 @@ Implementacion del uso de PLC con programacion de un PID para ajuste continuo de
 7. Codigo
 
  
-El archivo esta en el repositorio su nombre python.py
+El archivo esta en el repositorio su nombre python.ipynb
+![Sin título](https://github.com/user-attachments/assets/2e6d80b9-c01d-47f7-9b35-a08096eaf36a)
+
 
   
 
